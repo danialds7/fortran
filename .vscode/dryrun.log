@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/dani/Git/CUDASamples/fortran'
+make: Leaving directory '/home/dani/Git/CUDASamples/fortran'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

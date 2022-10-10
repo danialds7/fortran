@@ -8,7 +8,7 @@
 # 
 
 OPT=-O2
-FC=nvfortran
+FC=/opt/nvidia/hpc_sdk/Linux_x86_64/22.7/compilers/bin/nvfortran
 F90FLAGS = $(OPT)
 OBJ=o
 EXE=out
